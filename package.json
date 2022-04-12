@@ -27,6 +27,6 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"appwrite": "^3.2.0"
+		"appwrite": "^7.0.0"
 	}
 }
